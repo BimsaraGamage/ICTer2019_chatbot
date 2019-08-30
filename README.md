@@ -1,5 +1,5 @@
-# iceter19_chatbot
-This repository contains materials required for the chatbot workshop of icter 2019
+# ICTer2019_chatbot
+This repository contains materials required for the chatbot workshop of ICTer 2019 2019
 
 # How to use this repository
 The repo contains three notebooks:
