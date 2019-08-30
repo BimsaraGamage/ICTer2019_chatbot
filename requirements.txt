@@ -1,0 +1,4 @@
+
+rasa[spacy]
+git+https://github.com/apixu/apixu-python.git
+ngrok
