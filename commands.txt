@@ -1,0 +1,6 @@
+conda activate icter19
+
+conda install jupyter
+
+jupyter notebook
+
