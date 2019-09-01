@@ -17,3 +17,5 @@ requirements.txt file contains the requirements which are necessary to complete 
 
 # Get in touch
 If you encounter any problems while installing the dependencies or have any questions regarding this notebook, shoot me a message on **gamagebimsara@gmail.com**
+
+**Find the given url for slides --> https://drive.google.com/drive/folders/1HXWTWPbJMm00ye05viWlzRmLKQKXRhyu?usp=sharing**
