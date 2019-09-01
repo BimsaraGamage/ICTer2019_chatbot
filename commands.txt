@@ -1,5 +1,6 @@
+<--------------------------------------------------------------->
 #These commands are for people who brought their own PCs
-<---------------------------------------------------------->
+<--------------------------------------------------------------->
 #create a conda environment
 conda create --name icter19 python
 
@@ -21,8 +22,9 @@ python -m spacy link en_core_web_md en
 
 
 
+<--------------------------------------------------------------->
 #These commands are for people who are using machines in the lab
-<---------------------------------------------------------->
+<--------------------------------------------------------------->
 #activte conda environment
 conda activate icter19
 
