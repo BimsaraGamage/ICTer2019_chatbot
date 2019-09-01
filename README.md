@@ -6,6 +6,7 @@ The repo contains three notebooks:
 
 Icter19_chatbotworkshop_starter.ipynb --> this is the notebook which we will use during the workshop
 Icter19_chatbotworkshop_completed.ipynb --> this is the notebook which contains the completed, not executed code of the workshop
+
 Icter19_chatbotworkshop_executed.ipynb --> this is the notebook which contains the complete and executed code of the workshop
 
 Once you train the models, you can find them in a directory called models.
