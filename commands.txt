@@ -1,12 +1,38 @@
-#This is for people who brought their own PCs
+#These commands are for people who brought their own PCs
+<---------------------------------------------------------->
+#create a conda environment
 conda create --name icter19 python
 
+#To install all the libraries required, run
+pip install -r requirements.txt
+
+#If you face any issues while executing requirement.txt file, try followings:
+#if it is because of not having git installed in your device, run
+conda install git
+
+#if it is occured because of httptools libary(which is required for rasa), run
+conda install -c conda-forge httptools
+
+#then try executing requirement file,
+ 
+#after you successfully installed all the required libaries, you should download & install spacy language model using following 2 commands,
+python -m spacy download en_core_web_md
+python -m spacy link en_core_web_md en 
+
+
+
+#These commands are for people who are using machines in the lab
+<---------------------------------------------------------->
 #activte conda environment
 conda activate icter19
 
-#installed Jupyter notebook
-conda install jupyter
-
 #open Jupyter notebook
 jupyter notebook
+
+#if you were ran into problem, becuase jupyter has not been installed on your pc
+#try install Jupyter notebook using following
+conda install jupyter
+
+
+
 
