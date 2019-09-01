@@ -1,6 +1,12 @@
+#This is for people who brought their own PCs
+conda create --name icter19 python
+
+#activte conda environment
 conda activate icter19
 
+#installed Jupyter notebook
 conda install jupyter
 
+#open Jupyter notebook
 jupyter notebook
 
